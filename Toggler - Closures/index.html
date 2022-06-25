@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <button id="throttle" onclick="newFunction()">Throttle</button>
+</body>
+</html>
+<script>
+    const throttle = (func, delay) => {
+        return function(...args) {
+            document.getElementById("throttle").disabled=true;
+            setTimeout(() => {
+                func();
+            }, delay);
+        }
+    }
+
+    const newFunction = throttle(() => {
+        document.getElementById("throttle").disabled = false;
+        console.log("Congratulations You Won, But What ??");
+    }, 5000);
+</script>
