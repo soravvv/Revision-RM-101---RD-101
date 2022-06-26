@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<script>
+    function toggler(x, y, z) {
+        var char = x;
+        return function(...args) {
+            if(char === x) {
+                console.log(x);
+                char = y;
+            } else if(char === y) {
+                console.log(y);
+                char = z;
+            } else if(char === z) {
+                console.log(z);
+                char = x;
+            }
+        }
+    }
+
+    const toggle = toggler(1, 2, 3);
+
+    toggle();
+    // 1
+
+    toggle();
+    // 2
+
+    toggle();
+    // 3
+
+    toggle();
+    // 1
+</script>
