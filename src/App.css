@@ -1,0 +1,17 @@
+.app {
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid black;
+  padding: 0.5rem;
+}
+
+.app > th {
+  border: 1px solid black;
+  padding: 0.5rem;
+}
+
+.gap th {
+  width: fit-content;
+  border: 1px solid black;
+  padding: 0.7rem;
+}
