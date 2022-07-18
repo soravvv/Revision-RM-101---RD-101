@@ -1,0 +1,100 @@
+{
+    "data" : [
+        {
+            "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7NK7j_csVhiuj0W6hDeAsshhTMejVkI4TpN5o&s=0",
+            "job_title" : "React.js Developer",
+            "company": "Live Furnish",
+            "location": "New Delhi, Delhi",
+            "duration": "Full-Time",
+            "posted": "2 days ago"
+        },
+        {
+            "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOAFYRV61RSH8qHL2UixwUKFWNpAKG-Tj-Y-OP&s=0",
+            "job_title" : "React.js Developer - Bootstrap/Javascript",
+            "company": "Infinity Labs",
+            "location": "New Delhi, Delhi",
+            "duration": "Full-Time",
+            "posted": "6 days ago"
+        },
+        {
+            "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0n8K01VdBzvsrBrxL77Xv5hserBrH9sndhxBb&s=0",
+            "job_title" : "React.js Developer",
+            "company": "Spinny",
+            "location": "Gurugram, Haryana",
+            "duration": "Full-Time",
+            "posted": "1 day ago"
+        },
+        {
+            "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeS48tcuUA34kT6BIWJytDK5X38GnU5-Jl75RC&s=0",
+            "job_title" : "React Native Developer",
+            "company": "TrueFan",
+            "location": "Gurugram, Haryana",
+            "duration": "Full-Time",
+            "posted": "1 day ago"
+        },
+        {
+            "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZyLEBm1O614E0ktgypKHzoRe7G1DQxcLPIzij&s=0",
+            "job_title" : "React.js Developer (3-5 years)",
+            "company": "Techugo",
+            "location": "Noida, Uttar Pradesh",
+            "duration": "Full-Time",
+            "posted": "1 day ago"
+        },
+        {
+            "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlkqYZgjTSnbXq_EebzVxF6U0zQpvUwwTsywKM&s=0",
+            "job_title" : "React Native Developer",
+            "company": "Antino",
+            "location": "Gurugram, Haryana",
+            "duration": "Full-Time",
+            "posted": "2 hours ago"
+        },
+        {
+            "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5YM1yzYuFT2i9mXSBeKoDNviiaRar11Lu7--9&s=0",
+            "job_title" : "React JS Developer",
+            "company": "Tata Group",
+            "location": "New Delhi, Delhi",
+            "duration": "Full-Time",
+            "posted": "12 days ago"
+        },
+        {
+            "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4o0Ay8jR5l3t0BvmRBppluCq_gcQYqhQRsUf&s=0",
+            "job_title" : "React.js Developer",
+            "company": "Default",
+            "location": "Work From Home",
+            "duration": "Full-Time",
+            "posted": "7 days ago"
+        },
+        {
+            "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5FssnZI9eHpBJU39Mxsswl0ID71_CMck2MWR&s=0",
+            "job_title" : "React Js Developer",
+            "company": "Corewave",
+            "location": "New Delhi, Delhi",
+            "duration": "Full-Time",
+            "posted": "21 days ago"
+        },
+         {
+            "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF46cob2-biBn8wo2CS3e-1gCwFWVxq26ZD04A&s=0",
+            "job_title" : "React.js Developer",
+            "company": "ShopClues",
+            "location": "Gurugram, Haryana",
+            "duration": "Full-Time",
+            "posted": "NA"
+        },
+        {
+            "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRBYwx22ifdxgCkbdLP1z9XQb-2eVusTuzoShZ&s=0",
+            "job_title" : "Sr. React Developer",
+            "company": "AdPushup",
+            "location": "Delhi",
+            "duration": "Full-Time",
+            "posted": "NA"
+        },
+        {
+            "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0AxkwhqoWd1K8Nulo_tYQMmrdkrJnwgf4kE0I&s=0",
+            "job_title" : "SDE2 Frontend React.js",
+            "company": "Amazon",
+            "location": "Gurugram, Haryana",
+            "duration": "Full-Time",
+            "posted": "4 days ago"
+        }
+    ]
+}
